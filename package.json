@@ -34,7 +34,7 @@
     "hapi-auth-bearer-token": "^4.3.0",
     "hapi-auth-jwt2": "^5.8.0",
     "hapi-config": "^0.2.2",
-    "hapi-swagger": "^5.1.0",
+    "hapi-swagger": "^7.9.0",
     "html-pdf": "^2.1.0",
     "https": "^1.0.0",
     "inert": "^3.2.1",

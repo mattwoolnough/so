@@ -47,7 +47,7 @@
     "md5": "^2.2.1",
     "mime-types": "^2.1.14",
     "moment-range": "^2.2.0",
-    "mongoose": "^4.6.1",
+    "mongoose": "^6.0.4",
     "mongoose-long": "^0.1.0",
     "node-fs": "^0.1.7",
     "node-schedule": "^1.2.0",

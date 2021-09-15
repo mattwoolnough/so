@@ -53,7 +53,7 @@
     "node-schedule": "^1.2.0",
     "nodemailer": "^2.6.4",
     "nodemailer-smtp-transport": "^2.7.2",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.3",
     "opentok": "^2.4.0",
     "path": "^0.12.7",
     "random-int": "^1.0.0",

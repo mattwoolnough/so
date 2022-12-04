@@ -61,7 +61,7 @@
     "request": "^2.81.0",
     "require": "^2.4.20",
     "socket.io": "^1.7.2",
-    "stripe": "^4.12.0",
+    "stripe": "^5.1.0",
     "twilio": "^2.11.0",
     "underscore": "^1.8.3",
     "vision": "^4.1.0"
